@@ -1,6 +1,6 @@
 X  , Y  ,Angle,Move Type,Tangent,Velocity,Correction, Elbow , Elbow Speed, Slide,Slide Speed, Pitch,Roll,Claw, Wait,Comment,
 -4,69,-90,line,0,30,0,0,1,0.5,1,0.7,0.21,0.56,0,Starting,
--4,69,-90,line,0,100,0,-1,1,0,1,0.47,0.21,0,0,Starting,
+-4,69,-90,line,0,100,0,-0.5,1,0,1,0.47,0.21,0,0,Starting,
 0,37,-90,line,0,50,0.2,43,1,10,1,0.47,0.21,-1,0,"Move to Clip, Move Elbow, Extend Slides, Eject",
 0,43,-90,line,0,100,0.2,43,1,0,1,0.47,0.21,0,0,"Move back, retract slides",
 -32,45,-90,line,0,100,0.2,43,1,0,1,0.47,0.21,0,0,Move to block 1,
